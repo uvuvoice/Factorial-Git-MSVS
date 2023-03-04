@@ -5,7 +5,7 @@ int iFactorial(int);
 
 int main()
 {
-	int iNumber = 0;
+	int iNumber = 5;
 
 	cout << iFactorial(iNumber) << endl;
 
