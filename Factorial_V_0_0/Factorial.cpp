@@ -5,6 +5,7 @@ int iFactorial(int);
 
 int main()
 {
+	/* Factorial at 5 = 120 */
 	int iNumber = 5;
 
 	cout << iFactorial(iNumber) << endl;
